@@ -1,6 +1,7 @@
 # google-nlp
 <p>구글 nlp 테스트 한 Repository입니다.</br>
   https://cloud.google.com/natural-language?hl=ko
+  https://cloud.google.com/natural-language/docs/reference/rest/v1/documents/analyzeSentiment?apix_params=%7B%22resource%22%3A%7B%22document%22%3A%7B%22type%22%3A%22PLAIN_TEXT%22%2C%22content%22%3A%22%EC%A6%90%EA%B1%B0%EC%9B%8C%22%7D%2C%22encodingType%22%3A%22UTF8%22%7D%7D
  </p>
 
 # Test 결과 
